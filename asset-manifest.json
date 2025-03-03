@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/country-state-city-management-app/static/css/main.e67c2571.css",
+    "main.js": "/country-state-city-management-app/static/js/main.c57ece1e.js",
+    "static/js/453.0bcbd37a.chunk.js": "/country-state-city-management-app/static/js/453.0bcbd37a.chunk.js",
+    "index.html": "/country-state-city-management-app/index.html",
+    "main.e67c2571.css.map": "/country-state-city-management-app/static/css/main.e67c2571.css.map",
+    "main.c57ece1e.js.map": "/country-state-city-management-app/static/js/main.c57ece1e.js.map",
+    "453.0bcbd37a.chunk.js.map": "/country-state-city-management-app/static/js/453.0bcbd37a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e67c2571.css",
+    "static/js/main.c57ece1e.js"
+  ]
+}
