@@ -1,0 +1,31 @@
+.state-container {
+  background-color: #e0f7fa;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.state-container h3 {
+  color: #00796b;
+}
+
+.state-container input {
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.state-container button {
+  padding: 8px 12px;
+  background-color: #00796b;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.state-container button:hover {
+  background-color: #004d40;
+}
